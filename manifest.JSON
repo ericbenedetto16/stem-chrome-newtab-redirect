@@ -1,0 +1,1 @@
+{"name":"Eric Benedetto's STEM Redirect","description":"New Tab Redirect for Makerlab Theme","manifest_version":2,"version":"1.0","icons":{"16":"16.png","32":"32.png","48":"48.png","128":"128.png"},"chrome_url_overrides":{"newtab":"urowuhzIllupwhj.html"}}
